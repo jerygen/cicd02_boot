@@ -8,7 +8,7 @@ class Cicd02BootApplicationTests {
 
     @Test
     void contextLoads() {
-        throw new RuntimeException("Fail!");
+        //throw new RuntimeException("Fail!");
     }
 
 }
